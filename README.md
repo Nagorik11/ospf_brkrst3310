@@ -1,7 +1,7 @@
 # Troubleshooting OSPF (BRKRST-3310)
 Welcome to the Github repository for the lab demonstration!
 
-> Contact information:\
+
 > Email:    njrusmc@gmail.com\
 > Twitter:  @nickrusso42518
 
